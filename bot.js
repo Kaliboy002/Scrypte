@@ -16,7 +16,7 @@ const {
 	getNetworkDownloadSpeed,
 } = require('./funcs/dev')
 
-const token = process.env.TOKEN
+const token = process.env.7080362550:AAHhUQ4ecr0xjHLYzgT_Vuv5xRAjCQUhWiA
 const bot = new TelegramBot(token, { polling: true })
 
 console.log('Bot is running...')
